@@ -64,6 +64,14 @@ php artisan serve
 You can access the project at `http://localhost:8000`
 
 
+8. Run test cases
+
+```
+./vendor/bin/phpunit
+```
+
+9. Attached recorded demo file screen-recording.mp4
+
 
 ### With Docker
 
